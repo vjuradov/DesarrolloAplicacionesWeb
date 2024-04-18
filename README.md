@@ -52,9 +52,7 @@ Habilidades del equipo de desarrollo: La elección de la arquitectura debe consi
 
 **Recursos**
 
-* Elemento 1 de la lista.
-* Elemento 2 de la lista.
-* Elemento 3 de la lista.
+* [Diapositivas del capítulo](archivosC1/)
 
 ## Capítulo 2 Programación web en el cliente
 
