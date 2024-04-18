@@ -14,24 +14,42 @@
 * [Capítulo 3: Microservicios y contenedores](#seccion-3)
 * [Capítulo 4: Programación web en el servidor](#seccion-4)
 
+
+## Capítulo 1: Arquitectura Web
+
+**Contenido de la Sección 1**
 **Recursos**
 
 * Elemento 1 de la lista.
 * Elemento 2 de la lista.
 * Elemento 3 de la lista.
 
-## Sección 1
-
-**Contenido de la Sección 1**
-
-## Sección 2
+## Capítulo 2: Programación web en el cliente
 
 **Contenido de la Sección 2**
+**Recursos**
 
-## Acerca de
+* Elemento 1 de la lista.
+* Elemento 2 de la lista.
+* Elemento 3 de la lista.
+
+## Capítulo 3: Microservicios y contenedores
 
 **Información sobre la página web o el autor.**
+**Recursos**
 
+* Elemento 1 de la lista.
+* Elemento 2 de la lista.
+* Elemento 3 de la lista.
+
+## Capítulo 4: Programación web en el servidor
+
+**Información sobre la página web o el autor.**
+**Recursos**
+
+* Elemento 1 de la lista.
+* Elemento 2 de la lista.
+* Elemento 3 de la lista.
 ## Enlaces
 
 * [Enlace 1](https://www.ejemplo.com)
