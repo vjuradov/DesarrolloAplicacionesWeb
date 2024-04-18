@@ -16,7 +16,7 @@
 
 
 ## Capítulo 1: Arquitectura Web
-(#Capítulo-1)
+
 **Contenido de la Sección 1**
 **Recursos**
 
@@ -25,7 +25,7 @@
 * Elemento 3 de la lista.
 
 ## Capítulo 2: Programación web en el cliente
-(#Capítulo-2)
+
 **Contenido de la Sección 2**
 **Recursos**
 
@@ -34,7 +34,7 @@
 * Elemento 3 de la lista.
 
 ## Capítulo 3: Microservicios y contenedores
-(#Capítulo-3)
+
 **Información sobre la página web o el autor.**
 **Recursos**
 
@@ -43,7 +43,7 @@
 * Elemento 3 de la lista.
 
 ## Capítulo 4: Programación web en el servidor
-(#Capítulo-4)
+
 **Información sobre la página web o el autor.**
 **Recursos**
 
