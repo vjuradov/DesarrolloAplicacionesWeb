@@ -161,7 +161,36 @@ Los contenedores son unidades de software que encapsulan una aplicación y sus d
 
 ## Capítulo 4 Programación web en el servidor
 
-**Información sobre la página web o el autor.**
+La programación web del lado del servidor, también conocida como back-end development o desarrollo web del lado del servidor, se refiere a la parte de la programación web que se ejecuta en el servidor web. Es responsable de la lógica de negocio, la gestión de datos, la interacción con bases de datos y la comunicación con el usuario a través del navegador web.
+
+### ¿Qué hace la programación web del lado del servidor?
+
+- Procesa las solicitudes del usuario: Recibe las solicitudes HTTP enviadas por los usuarios a través del navegador web.
+- Ejecuta la lógica de negocio: Implementa la lógica que define el comportamiento de la aplicación web, como la validación de datos, el procesamiento de formularios, la autenticación de usuarios y la generación de contenido dinámico.
+- Accede y gestiona datos: Se conecta a bases de datos para almacenar, recuperar y modificar información.
+- Genera respuestas: Envía respuestas HTTP al navegador web, incluyendo el contenido HTML, CSS, JavaScript y otros datos necesarios para que la página web se muestre correctamente.
+- Integra con APIs de terceros: Se comunica con APIs externas para acceder a servicios y funcionalidades adicionales.
+- Garantiza la seguridad: Implementa medidas de seguridad para proteger la aplicación y los datos de accesos no autorizados.
+
+### Lenguajes de programación y tecnologías comunes para el lado del servidor:
+
+- Lenguajes de programación: Existen diversos lenguajes populares para el desarrollo del lado del servidor, como Java, Python, PHP, C#, Node.js y Ruby on Rails.
+- Frameworks y librerías: Se utilizan frameworks y librerías para facilitar el desarrollo del lado del servidor, como Spring MVC (Java), Django (Python), Laravel (PHP), ASP.NET MVC (C#) y Express.js (Node.js).
+- Servidores web: Los servidores web son programas que ejecutan las aplicaciones del lado del servidor, como Apache, Nginx, IIS y Tomcat.
+- Bases de datos: Se utilizan bases de datos relacionales, como MySQL, PostgreSQL y Oracle, o bases de datos no relacionales, como MongoDB y Cassandra, para almacenar y gestionar datos.
+
+### Beneficios de la programación web del lado del servidor:
+
+- Mayor seguridad: La lógica de negocio y los datos sensibles se ejecutan en el servidor, lo que los hace menos vulnerables a ataques del lado del cliente.
+- Mayor control: El desarrollador tiene un mayor control sobre el comportamiento de la aplicación y la experiencia del usuario.
+- Reutilización de código: La lógica de negocio se puede reutilizar en diferentes partes de la aplicación o incluso en otras aplicaciones.
+- Escalabilidad: Las aplicaciones del lado del servidor se pueden escalar horizontalmente agregando más servidores para satisfacer la demanda.
+- Acceso a recursos del servidor: Permite acceder a recursos del servidor, como archivos, configuraciones y servicios del sistema operativo.
+
+***
+**La programación web del lado del servidor es una parte fundamental del desarrollo web moderno. Es responsable de la lógica de negocio, la gestión de datos, la seguridad y la comunicación con el usuario. Si te interesa crear aplicaciones web robustas, escalables y seguras, aprender programación web del lado del servidor es una excelente opción.**
+***
+
 **Recursos**
 
 * Elemento 1 de la lista.
@@ -169,5 +198,5 @@ Los contenedores son unidades de software que encapsulan una aplicación y sus d
 * Elemento 3 de la lista.
 ## Enlaces
 
-* [Enlace 1](https://www.ejemplo.com)
-* [Enlace 2](https://www.otroejemplo.com)
+* [Desarrollo web y movil, por Allan Avendaño](https://dawmfiec.github.io/DAWM/)
+
