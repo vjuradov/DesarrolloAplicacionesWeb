@@ -196,7 +196,8 @@ La programación web del lado del servidor, también conocida como back-end deve
 * Elemento 1 de la lista.
 * Elemento 2 de la lista.
 * Elemento 3 de la lista.
-## Enlaces
+  
+## Referencias
 
 * [Desarrollo web y movil, por Allan Avendaño](https://dawmfiec.github.io/DAWM/)
 
