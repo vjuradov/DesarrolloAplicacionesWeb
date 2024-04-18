@@ -1,6 +1,6 @@
 # UEES - Ingeniería en Computación
 ## Desarrollo de Aplicaciones Web
-
+![](code-1076536_960_720.jpg)
 ## Resultados de aprendizaje
 
 * Implementar interfaces adaptables web mediante el uso de estándares en la estructuración y presentación de contenidos para dispositivos clientes móviles y fijos.
