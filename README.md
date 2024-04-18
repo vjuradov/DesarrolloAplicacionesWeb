@@ -49,6 +49,7 @@ La elección de la arquitectura web adecuada depende de varios factores:
 
 *** 
 **La arquitectura web es un aspecto fundamental para el éxito de un sitio web. Una arquitectura bien diseñada facilita la creación de un sitio web que sea fácil de usar, mantener y escalar, lo que a su vez se traduce en una mejor experiencia para los usuarios y un mayor retorno de la inversión.**
+
 ***
 
 **Recursos**
@@ -82,6 +83,7 @@ La programación web del lado del cliente, también conocida como front-end deve
 
 ***
 **La programación web del lado del cliente es una parte esencial del desarrollo web moderno. Permite crear interfaces de usuario interactivas, mejorar la experiencia del usuario y reducir la carga del servidor. Si te interesa crear sitios web dinámicos y atractivos, aprender programación web del lado del cliente es una excelente opción.**
+
 ***
 
 **Recursos**
@@ -151,6 +153,7 @@ Los contenedores son unidades de software que encapsulan una aplicación y sus d
 **Los microservicios y los contenedores son dos tecnologías que se pueden utilizar juntas para crear aplicaciones modernas y escalables. Los microservicios proporcionan un enfoque modular para el desarrollo de aplicaciones, mientras que los contenedores permiten ejecutar estas aplicaciones de forma consistente y eficiente en diferentes entornos.**
 
 **La combinación de microservicios y contenedores puede ofrecer varios beneficios, como una mayor agilidad, flexibilidad, escalabilidad y eficiencia de recursos. Sin embargo, también es importante considerar los desafíos asociados con estas tecnologías, como la complejidad de la gestión, la seguridad y el monitoreo.**
+
 ***
 
 **Recursos**
@@ -189,6 +192,7 @@ La programación web del lado del servidor, también conocida como back-end deve
 
 ***
 **La programación web del lado del servidor es una parte fundamental del desarrollo web moderno. Es responsable de la lógica de negocio, la gestión de datos, la seguridad y la comunicación con el usuario. Si te interesa crear aplicaciones web robustas, escalables y seguras, aprender programación web del lado del servidor es una excelente opción.**
+
 ***
 
 **Recursos**
