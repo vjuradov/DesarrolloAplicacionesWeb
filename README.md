@@ -47,7 +47,7 @@ La elección de la arquitectura web adecuada depende de varios factores:
 Habilidades del equipo de desarrollo: La elección de la arquitectura debe considerar las habilidades y experiencia del equipo para desarrollarla y mantenerla.
 
 *** 
-La arquitectura web es un aspecto fundamental para el éxito de un sitio web. Una arquitectura bien diseñada facilita la creación de un sitio web que sea fácil de usar, mantener y escalar, lo que a su vez se traduce en una mejor experiencia para los usuarios y un mayor retorno de la inversión.
+**La arquitectura web es un aspecto fundamental para el éxito de un sitio web. Una arquitectura bien diseñada facilita la creación de un sitio web que sea fácil de usar, mantener y escalar, lo que a su vez se traduce en una mejor experiencia para los usuarios y un mayor retorno de la inversión.**
 ***
 
 **Recursos**
