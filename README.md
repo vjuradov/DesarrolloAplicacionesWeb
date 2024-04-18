@@ -21,17 +21,12 @@ La arquitectura web se refiere a la estructura y forma en que se organizan los c
 
 ### Componentes clave de la arquitectura web:
 
-*Contenido*: La información y los recursos que se presentan a los usuarios, como texto, imágenes, videos y documentos.
-
-*Estructura*: La organización jerárquica de las páginas y secciones del sitio web, incluyendo las relaciones entre ellas.
-
-*Presentación*: El diseño visual y la interfaz de usuario que define cómo se ve y se interactúa con el sitio web.
-
-*Tecnología*: Las herramientas, lenguajes de programación y frameworks que se utilizan para desarrollar y mantener el sitio web.
-
-*Datos*: La información almacenada en bases de datos que alimenta el contenido y la funcionalidad del sitio web.
-
-*Seguridad*: Las medidas implementadas para proteger el sitio web de accesos no autorizados, ataques cibernéticos y pérdida de datos.
+- *Contenido*: La información y los recursos que se presentan a los usuarios, como texto, imágenes, videos y documentos.
+- *Estructura*: La organización jerárquica de las páginas y secciones del sitio web, incluyendo las relaciones entre ellas.
+- *Presentación*: El diseño visual y la interfaz de usuario que define cómo se ve y se interactúa con el sitio web.
+- *Tecnología*: Las herramientas, lenguajes de programación y frameworks que se utilizan para desarrollar y mantener el sitio web.
+- *Datos*: La información almacenada en bases de datos que alimenta el contenido y la funcionalidad del sitio web.
+- *Seguridad*: Las medidas implementadas para proteger el sitio web de accesos no autorizados, ataques cibernéticos y pérdida de datos.
 
 ### Beneficios de una buena arquitectura web:
 
