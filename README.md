@@ -157,9 +157,7 @@ Los contenedores son unidades de software que encapsulan una aplicación y sus d
 
 **Recursos**
 
-* Elemento 1 de la lista.
-* Elemento 2 de la lista.
-* Elemento 3 de la lista.
+* [Material de apoyo](https://drive.google.com/drive/folders/1dXlujfXHsK_vR-08jEEgzFrSnOtoOrRY?usp=drive_link)
 
 ## Capítulo 4 Programación web en el servidor
 
@@ -196,9 +194,7 @@ La programación web del lado del servidor, también conocida como back-end deve
 
 **Recursos**
 
-* Elemento 1 de la lista.
-* Elemento 2 de la lista.
-* Elemento 3 de la lista.
+* [Material de apoyo](https://drive.google.com/drive/folders/14_KIVIUgvWdcNS62bAHiCLjPQHN6tsG3?usp=drive_link)
   
 ## Referencias
 
