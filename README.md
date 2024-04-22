@@ -88,9 +88,8 @@ La programación web del lado del cliente, también conocida como front-end deve
 
 **Recursos**
 
-* Elemento 1 de la lista.
-* Elemento 2 de la lista.
-* Elemento 3 de la lista.
+* [Material de apoyo](https://drive.google.com/drive/folders/1rgbIHyUoccC1XYb3wGdbw2asI7E-UiX7?usp=drive_link)
+
 
 ## Capítulo 3 Microservicios y contenedores
 
