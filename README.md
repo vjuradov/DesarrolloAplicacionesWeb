@@ -54,7 +54,7 @@ La elección de la arquitectura web adecuada depende de varios factores:
 
 **Recursos**
 
-* [Diapositivas del capítulo](archivosC1)
+* [Diapositivas del capítulo](https://drive.google.com/drive/folders/1MPy3gcwbOetIfO_YxxydcIAanXAE91bK?usp=drive_link)
 
 ## Capítulo 2 Programación web en el cliente
 
